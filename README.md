@@ -1,0 +1,3 @@
+# World Domination
+
+Code for all occasions and circumstances...
